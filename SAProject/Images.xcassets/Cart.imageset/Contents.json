@@ -1,0 +1,1 @@
+{ "images" : [{"idiom" : "iphone", "scale" : "1x", "filename" : "shoppingCartIconNoNumber.png"},{"idiom" : "iphone", "scale" : "2x", "filename" : "shoppingCartIconNoNumber@2x.png"},{"idiom" : "iphone", "scale" : "3x", "filename" : "shoppingCartIconNoNumber@3x.png"}, ], "info" : { "version" : 1, "author" : "xcode" }}
